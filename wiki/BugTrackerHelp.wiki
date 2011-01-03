@@ -1,5 +1,6 @@
-#summary Report a new bug
+=Bug Tracker Help=
 
+<font size="3">
 If you have found a bug, please report it using the bug tracker. 
 
 Before you report a bug, browse through the [http://code.google.com/p/gambas/issues/list list of current bugs] and see if it has already been reported. 
@@ -14,3 +15,4 @@ Don't forget to give the following information, if they are relevant of course!
 || *Architecture* || If you run Gambas on 32 bits, 64 bits, or on ARM. ||
 || *GUI component* || If you use QT3, QT4, GTK+ or the default gb.gui component. ||
 || *Desktop used* || If you run your program on Gnome, KDE, E17... ||
+</font>
