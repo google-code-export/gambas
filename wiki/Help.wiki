@@ -9,7 +9,8 @@ If it has not, [http://code.google.com/p/gambas/issues/entry submit a new bug] a
 
 Don't forget to give the following information, if they are relevant of course!
 
-|| *Version* || The version of Gambas used. ||
+|| *Version* || The version of Gambas used (2.XX, /trunk for the Gambas 3 development version or /branches/2.0 for the next Gambas 2 version). ||
+|| *Revision* || The subversion repository revision if you are using a development version. ||
 || *Operating system* || The operating system used (Linux, FreeBSD...). ||
 || *Distribution* || The distribution used (Ubuntu, Fedora, ArchLinux, Gentoo...) ||
 || *Architecture* || If you run Gambas on 32 bits, 64 bits, or on ARM. ||
