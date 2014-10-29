@@ -6,9 +6,11 @@ If you have found a bug, please report it using the bug tracker.
   * Before you report a bug, browse through the [http://code.google.com/p/gambas/issues/list list of current bugs] and see if it has already been reported. 
 
   * If it has not, [http://code.google.com/p/gambas/issues/entry submit a new bug] and give a detailed description of the problem.
+</font>
 
 ==Filling a bug report==
 
+<font size="3">
 Don't forget to give the following information (if they are relevant of course):
 
 || *Version* || The version of Gambas used (2.XX, /trunk for the Gambas 3 development version or /branches/2.0 for the next Gambas 2 version). ||
