@@ -3,11 +3,13 @@
 <font size="3">
 If you have found a bug, please report it using the bug tracker. 
 
-Before you report a bug, browse through the [http://code.google.com/p/gambas/issues/list list of current bugs] and see if it has already been reported. 
+  * Before you report a bug, browse through the [http://code.google.com/p/gambas/issues/list list of current bugs] and see if it has already been reported. 
 
-If it has not, [http://code.google.com/p/gambas/issues/entry submit a new bug] and give a detailed description of the problem.
+  * If it has not, [http://code.google.com/p/gambas/issues/entry submit a new bug] and give a detailed description of the problem.
 
-Don't forget to give the following information, if they are relevant of course!
+==Filling a bug report==
+
+Don't forget to give the following information (if they are relevant of course):
 
 || *Version* || The version of Gambas used (2.XX, /trunk for the Gambas 3 development version or /branches/2.0 for the next Gambas 2 version). ||
 || *Revision* || The subversion repository revision if you are using a development version. ||
@@ -20,11 +22,10 @@ Don't forget to give the following information, if they are relevant of course!
 
 ==Important notes==
 
+<font size="3">
   * Don't create an issue if you have a compilation problem on the development version. Send a mail to the mailing-list instead.
 
   * If you encounter several different problems or bugs, (for example, a bug in your project, and an interpreter crash while debugging it), please create distinct issues!
 
   * Google automatically replaces references to Gambas development revision with links to its own source code repository, which Gambas does not use at all. So ignore these links with disdain.
-
-Thanks!
-
+</font>
