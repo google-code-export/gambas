@@ -11,7 +11,13 @@ If you have found a bug, please report it using the bug tracker.
 ==Filling a bug report==
 
 <font size="3">
-Don't forget to give the following information (if they are relevant of course):
+  # Describe the problem.<br/>
+  # Give information about your system. Use the 'System information' menu in the Gambas IDE, and paste the result there.<br/>
+  # Indicate the Gambas version in the issue labels, and if it is a bug, a crash, or an enhancement request.<br/>
+  # Provide a little project that reproduces the bug or the crash.<br/>
+  # If your project needs a database, try to provide it, or part of it.<br/>
+  # Explain clearly how to reproduce the bug or the crash.<br/>
+  # And don't forget to give the following information (if they are relevant of course):
 
 || *Version* || The version of Gambas used (`3.X.Y`, `/trunk` for the Gambas 3 development version or `/branches/2.0` for the next Gambas 3 version). ||
 || *Revision* || The subversion repository revision if you are using a development version. ||
